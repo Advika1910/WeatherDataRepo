@@ -1,0 +1,10 @@
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\model\WeatherResponse.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\controller\WeatherController.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\configuration\DynamoDbConfig.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\configuration\WeatherArrayConverter.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\controller\HelloController.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\configuration\AppConfig.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\service\WeatherService.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\StreamLambdaHandler.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\WeatherApplication.java
+C:\AWS\GIT Workspace\Karuna\WeatherDataRepo\src\main\java\org\ltimindtree\repository\WeatherRepository.java

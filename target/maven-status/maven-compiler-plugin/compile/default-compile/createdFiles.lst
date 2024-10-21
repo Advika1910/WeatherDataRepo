@@ -1,0 +1,15 @@
+org\ltimindtree\model\WeatherResponse.class
+org\ltimindtree\configuration\WeatherArrayConverter.class
+org\ltimindtree\controller\WeatherController.class
+org\ltimindtree\controller\HelloController.class
+org\ltimindtree\model\WeatherResponse$Sys.class
+org\ltimindtree\model\WeatherResponse$Weather.class
+org\ltimindtree\model\WeatherResponse$Wind.class
+org\ltimindtree\model\WeatherResponse$Clouds.class
+org\ltimindtree\repository\WeatherRepository.class
+org\ltimindtree\WeatherApplication.class
+org\ltimindtree\service\WeatherService.class
+org\ltimindtree\StreamLambdaHandler.class
+org\ltimindtree\configuration\AppConfig.class
+org\ltimindtree\model\WeatherResponse$Coord.class
+org\ltimindtree\model\WeatherResponse$Main.class
