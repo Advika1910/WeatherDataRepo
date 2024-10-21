@@ -55,7 +55,7 @@ jobs:
       uses: aws-actions/aws-cloudformation-github-deploy@v1
       with:
         name: krvspk-stack
-        template: https:///my-weather-data-bucket-1.s3.amazonaws.com/DeployConfig.yaml
+        template: https://my-weather-data-bucket-1.s3.amazonaws.com/DeployConfig.yaml
         no-fail-on-empty-changeset: "1"
         capabilities: CAPABILITY_NAMED_IAM
         
